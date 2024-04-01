@@ -17,7 +17,7 @@ This allows for multiple passwords to be used for different text.
 
 ## Adding it to notion
 
-1. Add the URL https://marcello09.github.io/notion-lock/en as an embedded view on any page of Notion.
+1. Add the URL https://mindydc88.github.io/notion-lock as an embedded view on any page of Notion.
 2. Resize the frame to your liking.
 3. you are done! =D
 
